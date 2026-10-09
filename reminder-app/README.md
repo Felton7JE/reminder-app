@@ -9,6 +9,7 @@ Create a simple app where users can:
 - Add reminders
 - Edit reminders
 - Delete reminders
+- use ia to notify  the user 
 
  
 ## Status
