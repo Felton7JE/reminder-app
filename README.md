@@ -70,4 +70,5 @@ A tela principal não deve focar em "Criar Tarefa", mas sim em "Guardar para dep
 - [x] Project setup and planning phase
 - [ ] Criar a interface da Inbox (index.html, style.css)
 - [ ] Criar a interface rápida de partilha/receção de dados
-- [ ] Validar com utilizadores reais (Moçambique)
+- [ ] Validar com utilizadores reais (Moçambique)]
+  { }
